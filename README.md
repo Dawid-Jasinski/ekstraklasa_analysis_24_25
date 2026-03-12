@@ -25,13 +25,16 @@ The goal was to understand what drives success in Ekstraklasa and which variable
 ## 🧹 Data Cleaning & Preparation
 Raw data from FBref were spread across multiple sheets and required:
 cleaning team names (removing HTML fragments), type conversion (numeric/strings), selecting relevant variables, merging datasets into one consistent DataFrame.
+
 The final dataset includes:
+
 18 teams 28 variables (attacking, defensive, efficiency, possession, shooting, goalkeeping)
 Cleaned dataset saved as: ekstraklasa_clean.csv
 
 ## 📊 Exploratory Data Analysis (EDA)
 Lech Poznań dominated offensively and maintained one of the highest possession rates. Raków had the strongest defensive performance (fewest goals conceded). Teams like Puszcza, Stal Mielec, Zagłębie struggled in both attack and defense.
 Efficiency metrics (G/Sh, G/SoT) correlate strongest with total points. Possession shows only moderate correlation with success. Goal difference (GD) explains 95% of points variation.
+
 Team Profiles Radar charts show strong contrast between TOP4, Mid and relegation teams in volume, efficiency, and defensive solidity. A case study comparing Lech vs Widzew illustrates how cumulative small advantages across many metrics translate into big point differences.
 
 ## 🤖 Predictive Modeling (Linear Regression)
