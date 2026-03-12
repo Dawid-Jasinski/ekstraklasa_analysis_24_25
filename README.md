@@ -46,6 +46,9 @@ Success in Ekstraklasa is driven mainly by finishing efficiency and defensive st
 ## 🎯 Recommendations
 Relegation teams should focus on increasing chance creation volume and improving defensive structure. Offense should prioritize shot quality, not just volume. Clubs underperforming xPts should analyze key game phases and late game situations. Wider use of analytics (xPts, finishing quality, defensive patterns) can improve strategic decisions.
 
-## ⚙️ 8. AI Assisted Development Notice Some parts of the project were supported by AI assisted coding tools (Copilot/ChatGPT) to streamline code generation and improve workflow efficiency. All analytical logic, data interpretation, conclusions, visualizations and the full written report were created, verified and curated by the author.
+## ⚙️ AI Assisted Development 
+Notice Some parts of the project were supported by AI assisted coding tools (Copilot/ChatGPT) to streamline code generation and improve workflow efficiency. All analytical logic, data interpretation, conclusions, visualizations and the full written report were created, verified and curated by the author.
 
-## 🙋 About the Author I am a student of econometrics and data analytics, developing my portfolio for a Junior Data Analyst position. This project was created as a complete data analytics case study, from data cleaning to modeling. If you want to discuss the project or collaborate feel free to reach out!
+## 🙋 About the Author 
+I am a student of econometrics and data analytics, developing my portfolio for a Junior Data Analyst position. This project was created as a complete data analytics case study, from data cleaning to modeling. If you want to discuss the project or collaborate feel free to reach out!
+---
