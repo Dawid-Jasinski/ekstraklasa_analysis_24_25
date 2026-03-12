@@ -1,6 +1,8 @@
 # Ekstraklasa 2024/25 – Data Analysis & Predictive Modeling
 Author: Dawid Jasiński 
+
 Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn), Jupyter Notebook, Excel Data 
+
 Source: FBref.com
 ---
 ## 📊 Project Scope
@@ -34,10 +36,14 @@ Team Profiles Radar charts show strong contrast between TOP4, Mid and relegation
 
 ## 🤖 Predictive Modeling (Linear Regression)
 goals scored / conceded possession shots per 90 shots on target per 90 goals per shot (G/Sh) goals per shot on target (G/SoT)
+
 📌 Model performance:
+
 R² = 0.95 (excellent explanatory power) strongest positive predictor: G/SoT strongest negative: GA (goals conceded)
 The model was used to compute Expected Points (xPts) for each team. 
+
 🟥 Underperformers: Śląsk, Radomiak, Puszcza 
+
 🟩 Overperformers: Korona, Motor, Jagiellonia These differences highlight tactical, mental, or structural factors not captured directly in raw statistics.
 
 ## 📝 Key Insights
