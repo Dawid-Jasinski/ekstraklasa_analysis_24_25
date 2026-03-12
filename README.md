@@ -7,7 +7,7 @@ Source: FBref.com
 This project presents a complete analytical study of the Polish Ekstraklasa 2024/25 season. It includes:
 full data cleaning & integration from multiple FBref sheets, exploratory data analysis (EDA), statistical comparison of teams, linear regression model predicting expected points (xPts), identification of over/underperforming teams, professional report.
 The goal was to understand what drives success in Ekstraklasa and which variables statistically explain the number of points earned. This project is built in the style of a real data analytics case study, covering the entire workflow: problem → data → cleaning → EDA → modeling → interpretation → report.
----
+
 ## 📁 Repository Structure
 ```
 /notebooks
