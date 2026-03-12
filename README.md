@@ -1,8 +1,8 @@
 # Ekstraklasa 2024/25 – Data Analysis & Predictive Modeling
 Author: Dawid Jasiński 
-
+---
 Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn), Jupyter Notebook, Excel Data 
-
+---
 Source: FBref.com
 ---
 ## 📊 Project Scope
